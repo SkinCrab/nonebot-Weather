@@ -3,7 +3,9 @@
 A nonebot starts with a weather plugin
 
 ## Introduction
+
 This is a weather plugin based on Nonebot
+
 这是一个基于nonebot的天气插件
 
 ## How to use it?
